@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lukas Putz 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning a lot of languages
-- 💞️ I’m looking to working for Posche Infomat
+- 💞️ I’m working for Posche Holding
 
 <!---
 lukas-putz/lukas-putz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
