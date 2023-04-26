@@ -1,11 +1,5 @@
 ## Servas! I am Lukas Putz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img height="200px"
-  src="https://stackoverflow-card.vercel.app/?userID=21111522&theme=dracula"
-/>
-
-
-
 <hr/>
   <img align="left" width="48%" src='https://github-readme-stats.vercel.app/api?username=lukas-putz&show_icons=true&theme=monokai&count_private=true&rank_icon=github'/>
   </p>
@@ -20,6 +14,10 @@
 - ⚡ I'am from Austria  ![Austria](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/at.png "Austria")
 :)
 
+---
+<img height="200px"
+  src="https://stackoverflow-card.vercel.app/?userID=21111522&theme=dracula"
+/>
 
 
 <!---
