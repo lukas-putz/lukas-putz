@@ -14,11 +14,6 @@
 - ⚡ I'am from Austria  ![Austria](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/at.png "Austria")
 :)
 
----
-<img height="150px"
-  src="https://stackoverflow-card.vercel.app/?userID=21111522&theme=dracula"
-/>
-
 
 <!---
 lukas-putz/lukas-putz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
