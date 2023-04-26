@@ -1,6 +1,6 @@
 ## Servas! I am Lukas Putz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img height="300px"
+<img height="200px"
   src="https://stackoverflow-card.vercel.app/?userID=21111522&theme=dracula"
 />
 
