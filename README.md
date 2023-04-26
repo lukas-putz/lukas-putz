@@ -5,7 +5,7 @@
   </p>
   <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=lukas-putz&count_private=true&theme=monokai" alt="Akash-goyal- github"/>
   <hr>
- <img align="center" width="1000%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-goyal-github&count_private=true&theme=monokai&layout=compact&card_width=750" alt="Akash-goyal-github" />
+ <img align="center" width="1000%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukas-putz&count_private=true&theme=monokai&layout=compact&card_width=750" alt="lukas-putz" />
 <hr>
 
 
