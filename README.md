@@ -15,7 +15,7 @@
 :)
 
 ---
-<img height="120px"
+<img height="150px"
   src="https://stackoverflow-card.vercel.app/?userID=21111522&theme=dracula"
 />
 
